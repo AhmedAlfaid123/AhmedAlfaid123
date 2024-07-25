@@ -21,7 +21,7 @@ function bot($method, $params = [])
     return json_decode($response, true);
 }
 
-//bot("setWebhook", ["url" => $_SERVER['SERVER_NAME'] . "" . $_SERVER['SCRIPT_NAME'], "drop_pending_updates" => true]);
+bot("setWebhook", ["url" => $_SERVER['SERVER_NAME'] . "" . $_SERVER['SCRIPT_NAME'], "drop_pending_updates" => true]);
 
 function Search($chat_id, $message_id, $text)
 {
@@ -605,105 +605,6 @@ function sendHadith($chat_id, $message_id, $bookName, $bookId, $name)
 
 }
 
-//- - - MALIK - - - -
-//- - - MALIK - - - -
-//- - - MALIK - - - -
-
-if ($data == "MALIK") {
-    sendHadith($from_id, $message_id, "malik", "MALIK", 
-    "مُوطأ الإمام مالك "
-    );
-}
-
-//- - - AHMED - - - -
-//- - - AHMED - - - -
-//- - - AHMED - - - -
-
-if ($data == "AHMED") {
-    sendHadith($from_id, $message_id, "ahmed", "AHMED", 
-    "مُسند الإمام أحمد "
-    );
-}
-
-//- - - BUTHARI - - -
-//- - - BUTHARI - - -
-//- - - BUTHARI - - -
-
-if ($data == "BUKHARI") {
-    sendHadith($from_id, $message_id, "bukhari", "BUKHARI", 
-    "صحيح البخاري "
-    );
-}
-
-//- - - MUSLIM - - -
-//- - - MUSLIM - - -
-//- - - MUSLIM - - -
-
-if ($data == "MUSLIM") {
-    sendHadith($from_id, $message_id, "muslim", "MUSLIM", 
-    "صحيح مسلم"
-    );
-}
-
-//- - - ABUDAWUD - - -
-//- - - ABUDAWUD - - -
-//- - - ABUDAWUD - - -
-
-if ($data == "ABUDAWUD") {
-    sendHadith($from_id, $message_id, "abudawud", "ABUDAWUD",
-    "سُنن أبي داوود "
-    );
-}
-
-//- - - NASAI - - -
-//- - - NASAI - - -
-//- - - NASAI - - -
-
-if ($data == "NASAI") {
-    sendHadith($from_id, $message_id, "nasai", "NASAI", 
-    "سُنن النسائي "
-    );
-}
-
-//- - - TIRMIDHI - - -
-//- - - TIRMIDHI - - -
-//- - - TIRMIDHI - - -
-
-if ($data == "TIRMIDHI") {
-    sendHadith($from_id, $message_id, "tirmidhi", "TIRMIDHI", 
-    "سُنن الترمذي " 
-    );
-}
-
-//- - - DARIMI - - -
-//- - - DARIMI - - -
-//- - - DARIMI - - -
-
-if ($data == "DARIMI") {
-    sendHadith($from_id, $message_id, "darimi", "DARIMI", 
-    "سُنن الدارِمي " 
-    );
-}
-
-//- - - IBNMAGAH - - -
-//- - - IBNMAGAH - - -
-//- - - IBNMAGAH - - -
-
-if ($data == "IBNMAGAH") {
-    sendHadith($from_id, $message_id, "ibnmajah", "IBNMAGAH", 
-    "سُنن ابن ماجه " 
-    );
-}
-
-//- - - ALADAB ALMUFRAD - - -
-//- - - ALADAB ALMUFRAD - - -
-//- - - ALADAB ALMUFRAD - - -
-
-if ($data == "ALADAB") {
-    sendHadith($from_id, $message_id, "aladab_almufrad", "ALADAB", 
-    "الأدبُ المُفرَدْ للبخاري " 
-    );
-}
 
 
 //BACK-------
@@ -715,21 +616,6 @@ if ($data == 'back') {
     
     elseif(!in_array($from_id,$STTH))
     sendTextFM($chat_id, $message_id, $txt, "EditMessageText", $tafel, "active");
-    
-
-    unlink("img/$from_id.txt");
-    unlink("SEARCH/$from_id.txt");
-    unlink("KOTOB_ID/ATHKAR/$from_id.txt");
-    unlink("KOTOB_ID/AHMED/$from_id.txt");
-    unlink("KOTOB_ID/BUKHARI/$from_id.txt");
-    unlink("KOTOB_ID/MUSLIM/$from_id.txt");
-    unlink("KOTOB_ID/ABUDAWUD/$from_id.txt");
-    unlink("KOTOB_ID/NASAI/$from_id.txt");
-    unlink("KOTOB_ID/TIRMIDHI/$from_id.txt");
-    unlink("KOTOB_ID/DARIMI/$from_id.txt");
-    unlink("KOTOB_ID/MALIK/$from_id.txt");
-    unlink("KOTOB_ID/IBNMAGAH/$from_id.txt");
-    unlink("KOTOB_ID/ALADAB/$from_id.txt");
 }
 
 $ALI = ["🕊️", "👍"];
