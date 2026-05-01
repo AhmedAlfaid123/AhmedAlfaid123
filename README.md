@@ -1,8 +1,8 @@
 <div align="center">
-  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waveThickness&color=0D1117&height=300&section=header&text=Ahmed%20Hassan%20Abbas&fontSize=50&fontColor=58A6FF&desc=NLP%20Engineer%20%7C%20Agentic%20AI%20%7C%20RAG%20Systems&descAlignY=75&descSize=20&descColor=C9D1D9" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waveThickness&color=0D1117&height=300&section=header&text=Ahmed%20Hassan%20Abbas&fontSize=50&fontColor=58A6FF&desc=NLP%20Engineer%20%7C%20Agentic%20AI%20%7C%20RAG%20Systems&descAlignY=65&descAlign=60&animation=fadeIn" alt="header" />
 </div>
 
-<h1 align="center">Ahmed Hassan Abbas</h1>
+<h1 align="center">Welcome to My GitHub Profile</h1>
 
 <p align="center">
   <strong>NLP Engineer | Agentic AI | RAG Systems Developer</strong>
@@ -70,7 +70,7 @@ I'm a passionate AI engineer based in **Egypt**, specializing in Natural Languag
 ## <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline; margin-right:8px; color:#58A6FF;"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline></svg> GitHub Statistics
 
 <div align="center">
-  <img src="https://readme-stats-colors.vercel.app/api?username=AhmedAlfaid123&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D" alt="GitHub Stats" width="500" />
+  <img src="https://readme-stats-colors.vercel.app/api?username=AhmedAlfaid123&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&border_radius=10" alt="GitHub Stats" />
 </div>
 
 <div align="center">
