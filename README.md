@@ -70,7 +70,7 @@ I'm a passionate AI engineer based in **Egypt**, specializing in Natural Languag
 ## <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline; margin-right:8px; color:#58A6FF;"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline></svg> GitHub Statistics
 
 <div align="center">
-  <img src="https://readme-stats-colors.vercel.app/api?username=AhmedAlfaid123&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedAlfaid123&theme=github_dark" alt="GitHub Stats" />
 </div>
 
 <div align="center">
