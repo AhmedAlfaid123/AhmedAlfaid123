@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="300" src="https://via.placeholder.com/1200x300/0D1117/58A6FF?text=Ahmed+Hassan+Abbas+-+NLP+Engineer" alt="header" />
+  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waveThickness&color=0D1117&height=300&section=header&text=Ahmed%20Hassan%20Abbas&fontSize=50&fontColor=58A6FF&desc=NLP%20Engineer%20%7C%20Agentic%20AI%20%7C%20RAG%20Systems&descAlignY=75&descSize=20&descColor=C9D1D9" alt="header" />
 </div>
 
 <h1 align="center">Ahmed Hassan Abbas</h1>
@@ -69,9 +69,13 @@ I'm a passionate AI engineer based in **Egypt**, specializing in Natural Languag
 
 ## <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline; margin-right:8px; color:#58A6FF;"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline></svg> GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedAlfaid123&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+<div align="center">
+  <img src="https://readme-stats-colors.vercel.app/api?username=AhmedAlfaid123&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D" alt="GitHub Stats" width="500" />
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedAlfaid123&theme=dark&background=0D1117&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF" alt="GitHub Streak" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedAlfaid123&theme=dark&background=0D1117&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF&border=30363D" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -79,7 +83,7 @@ I'm a passionate AI engineer based in **Egypt**, specializing in Natural Languag
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/ahmed-hassan-abbas-aa3855311">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
