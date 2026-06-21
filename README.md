@@ -147,18 +147,6 @@ I fine-tune LLMs, build RAG pipelines, and develop AI agents that solve real pro
 ---
 
 <h2>
-  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle; margin-right:8px;"><path d="M12 15C15.866 15 19 11.866 19 8C19 4.13401 15.866 1 12 1C8.13401 1 5 4.13401 5 8C5 11.866 8.13401 15 12 15Z"/><path d="M8.21 13.89L7 23L12 20L17 23L15.79 13.88"/></svg>
-  Certificates
-</h2>
-
-| Certificate | Issuer |
-|---|---|
-| Natural Language Processing | NVIDIA |
-| Natural Language Processing | NTI (National Telecommunication Institute) |
-
----
-
-<h2>
   <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle; margin-right:8px;"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
   GitHub Statistics
 </h2>
