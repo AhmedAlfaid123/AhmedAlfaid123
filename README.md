@@ -1,103 +1,209 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waveThickness&color=0D1117&height=300&section=header&text=Ahmed%20Hassan%20Abbas&fontSize=50&fontColor=58A6FF&desc=NLP%20Engineer%20%7C%20Agentic%20AI%20%7C%20RAG%20Systems&descAlignY=65&descAlign=60&animation=fadeIn" alt="header" />
-</div>
-
-<h1 align="center">Welcome to My GitHub Profile</h1>
-
 <p align="center">
-  <strong>NLP Engineer | Agentic AI | RAG Systems Developer</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15,16,17&height=220&section=header&text=Ahmed%20Hassan%20Abbas&fontSize=48&fontColor=fff&fontAlignY=35&desc=AI%20Engineer%20%7C%20NLP%20%7C%20RAG%20%7C%20AI%20Agents&descAlignY=55&descSize=16" alt="Header" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-hassan-abbas-aa3855311">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Fine-tuning+LLMs;Building+RAG+Systems;Developing+AI+Agents;Semantic+Search+Engineer" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-hassan-abbas-aa3855311/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/AhmedAlfaid123">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="mailto:ahmdhsnbas598@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-## <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline; margin-right:8px; color:#58A6FF;"><path d="M13 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"></path><polyline points="13 2 13 9 20 9"></polyline></svg> About Me
+<h2>
+  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle; margin-right:8px;"><path d="M13 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"/><polyline points="13 2 13 9 20 9"/></svg>
+  About Me
+</h2>
 
-I'm a passionate AI engineer based in **Egypt**, specializing in Natural Language Processing, Agentic AI systems, and RAG (Retrieval-Augmented Generation) architectures. I love building intelligent solutions that solve real-world problems using cutting-edge AI technologies.
+AI Engineer focused on **Natural Language Processing**, **Retrieval-Augmented Generation**, and **fine-tuning large language models**. I build practical AI systems -- from semantic search engines to intelligent agents -- that work in production.
+
+I fine-tune LLMs, build RAG pipelines, and develop AI agents that solve real problems. Currently working on projects spanning NLP, semantic search, and intelligent automation.
 
 ---
 
-## <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline; margin-right:8px; color:#58A6FF;"><circle cx="12" cy="12" r="1"></circle><path d="M12 1v6m0 6v6M4.22 4.22l4.24 4.24m5.08 0l4.24-4.24M1 12h6m6 0h6M4.22 19.78l4.24-4.24m5.08 0l4.24 4.24"></path></svg> Technical Skills
+<h2>
+  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle; margin-right:8px;"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg>
+  Technical Skills
+</h3>
 
-### Languages & Core Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### AI & Machine Learning
+<h3>
+  <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#7C3AED" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle; margin-right:6px;"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
+  Core AI & ML
+</h3>
 
 <p>
   <img src="https://img.shields.io/badge/NLP-FF6B6B?style=flat-square&logo=openai&logoColor=white" alt="NLP" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-00D084?style=flat-square" alt="Agentic AI" />
   <img src="https://img.shields.io/badge/RAG%20Systems-4B8BBE?style=flat-square" alt="RAG Systems" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-00D084?style=flat-square" alt="Agentic AI" />
   <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Semantic%20Search-1F4788?style=flat-square" alt="Semantic Search" />
 </p>
 
-### Popular Libraries & Frameworks
+<h3>
+  <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#7C3AED" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle; margin-right:6px;"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>
+  Languages & Frameworks
+</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Transformers-FFD700?style=flat-square" alt="Transformers" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/LangChain-1F4788?style=flat-square" alt="LangChain" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Transformers-FFD700?style=flat-square" alt="Transformers" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+<h3>
+  <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#7C3AED" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle; margin-right:6px;"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3"/><path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5"/></svg>
+  Data & Infrastructure
+</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Vector%20Databases-4B8BBE?style=flat-square" alt="Vector Databases" />
+</p>
+
+<h3>
+  <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#7C3AED" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle; margin-right:6px;"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>
+  Tools & Platforms
+</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Gradio-F9AB00?style=flat-square" alt="Gradio" />
 </p>
 
 ---
 
-## <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline; margin-right:8px; color:#58A6FF;"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="12" y1="13" x2="12" y2="19"></line><line x1="9" y1="16" x2="15" y2="16"></line></svg> Current Focus
+<h2>
+  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle; margin-right:8px;"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="12" y1="13" x2="12" y2="19"/><line x1="9" y1="16" x2="15" y2="16"/></svg>
+  Featured Projects
+</h2>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" style="display:inline; margin-right:8px; color:#58A6FF;"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm3.5-9c.83 0 1.5-.67 1.5-1.5S16.33 8 15.5 8 14 8.67 14 9.5s.67 1.5 1.5 1.5zm-7 0c.83 0 1.5-.67 1.5-1.5S9.33 8 8.5 8 7 8.67 7 9.5 7.67 11 8.5 11zm3.5 6.5c2.33 0 4.31-1.46 5.11-3.5H6.89c.8 2.04 2.78 3.5 5.11 3.5z"/></svg> **Building Intelligent AI Systems**
+<h3>1. Freelancer Matching Model</h3>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" style="display:inline; margin-right:8px; color:#58A6FF;"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm3.5-9c.83 0 1.5-.67 1.5-1.5S16.33 8 15.5 8 14 8.67 14 9.5s.67 1.5 1.5 1.5zm-7 0c.83 0 1.5-.67 1.5-1.5S9.33 8 8.5 8 7 8.67 7 9.5 7.67 11 8.5 11zm3.5 6.5c2.33 0 4.31-1.46 5.11-3.5H6.89c.8 2.04 2.78 3.5 5.11 3.5z"/></svg> **Learning Advanced NLP Techniques**
+**Problem:** Matching freelancers with suitable projects is time-consuming and often inaccurate.
 
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" style="display:inline; margin-right:8px; color:#58A6FF;"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm3.5-9c.83 0 1.5-.67 1.5-1.5S16.33 8 15.5 8 14 8.67 14 9.5s.67 1.5 1.5 1.5zm-7 0c.83 0 1.5-.67 1.5-1.5S9.33 8 8.5 8 7 8.67 7 9.5 7.67 11 8.5 11zm3.5 6.5c2.33 0 4.31-1.46 5.11-3.5H6.89c.8 2.04 2.78 3.5 5.11 3.5z"/></svg> **Contributing to Open Source AI Projects**
+**Solution:** Fine-tuned Qwen2.5-3B-Instruct using QLoRA to intelligently match freelancers with projects.
+
+**Key Features:**
+- Evaluates candidate skills against project requirements
+- Returns structured match scores
+- Provides boolean hiring decisions
+
+**Tech:** `Fine-tuning` `QLoRA` `NLP` `Transformers`
+
+[<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle; margin-right:4px;"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> View Notebook](https://colab.research.google.com/drive/1VI_6stDJzzqTMPerDWvqPlo7FKgxWie5?usp=sharing)
+
+<h3>2. Skills Analyzer Model</h3>
+
+**Problem:** Freelancers struggle to understand how their skills match market demands.
+
+**Solution:** Fine-tuned Qwen2.5-3B-Instruct as an ATS skill-matching engine.
+
+**Key Features:**
+- Analyzes CVs against job market requirements
+- Computes match percentages
+- Provides actionable recommendations
+
+**Tech:** `Fine-tuning` `QLoRA` `NLP` `Transformers`
+
+[<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle; margin-right:4px;"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> View Notebook](https://colab.research.google.com/drive/1TmcerCl6OC7ePjSMsDpAT2Nd2i6yOuxC)
+
+<h3>3. Islamic Agent</h3>
+
+**Problem:** Finding relevant prophetic hadiths from specific books is difficult and time-consuming.
+
+**Solution:** An AI agent that leverages NLP and semantic search to find relevant hadiths.
+
+**Key Features:**
+- Searches across renowned hadith books
+- Book filtering and result re-ranking
+- Semantic search for relevant hadiths
+
+**Tech:** `NLP` `Semantic Search` `RAG` `LangChain` `AI Agent` `Gradio`
+
+[<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle; margin-right:4px;"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> View on GitHub](https://github.com/AhmedAlfaid123/Islamic-Agent)
 
 ---
 
-## <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline; margin-right:8px; color:#58A6FF;"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline></svg> GitHub Statistics
+<h2>
+  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle; margin-right:8px;"><path d="M12 15C15.866 15 19 11.866 19 8C19 4.13401 15.866 1 12 1C8.13401 1 5 4.13401 5 8C5 11.866 8.13401 15 12 15Z"/><path d="M8.21 13.89L7 23L12 20L17 23L15.79 13.88"/></svg>
+  Certificates
+</h2>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedAlfaid123&theme=github_dark" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedAlfaid123&theme=dark&background=0D1117&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF&border=30363D" alt="GitHub Streak" />
-</div>
+| Certificate | Issuer |
+|---|---|
+| Natural Language Processing | NVIDIA |
+| Natural Language Processing | NTI (National Telecommunication Institute) |
 
 ---
 
-## <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline; margin-right:8px; color:#58A6FF;"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg> Let's Connect
-
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
+<h2>
+  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle; margin-right:8px;"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+  GitHub Statistics
+</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-hassan-abbas-aa3855311">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAlfaid123&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide=contribs" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedAlfaid123&theme=github-dark&background=0D1117&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF&border=30363D&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAlfaid123&layout=donut-vertical&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedAlfaid123&theme=github-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFA500&area=true&area_color=58A6FF&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmedAlfaid123&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+<h2>
+  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle; margin-right:8px;"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+  Let's Connect
+</h2>
+
+Open to collaborations, freelance projects, and opportunities in AI engineering.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-hassan-abbas-aa3855311/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/AhmedAlfaid123">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:ahmdhsnbas598@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <strong>Made with dedication | Built with passion for AI</strong>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmedAlfaid123&color=58A6FF" alt="Profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15,16,17&height=120&section=footer&text=Thank%20You%20For%20Visiting&fontSize=20&fontColor=fff&fontAlignY=70" alt="Footer" />
 </p>
