@@ -164,7 +164,7 @@ I fine-tune LLMs, build RAG pipelines, and develop AI agents that solve real pro
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAlfaid123&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide=contribs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAlfaid123&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -172,15 +172,11 @@ I fine-tune LLMs, build RAG pipelines, and develop AI agents that solve real pro
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAlfaid123&layout=donut-vertical&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAlfaid123&layout=compact&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedAlfaid123&theme=github-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFA500&area=true&area_color=58A6FF&hide_border=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedAlfaid123&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedAlfaid123&theme=github-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFA500&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
