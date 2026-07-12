@@ -152,15 +152,7 @@ I fine-tune LLMs, build RAG pipelines, and develop AI agents that solve real pro
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAlfaid123&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedAlfaid123&theme=github-dark&background=0D1117&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF&border=30363D&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAlfaid123&layout=compact&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
